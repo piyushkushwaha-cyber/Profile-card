@@ -10,7 +10,7 @@ import { FaMapMarkerAlt } from "react-icons/fa";
 export default function Page() {
   return (
     <>
-    <div className="h-screen h-[100dvh] overflow-hidden bg-gradient-to-r from-black via-gray-900 to-indigo-950 font-serif flex flex-col">
+    <div className="min-h-[100dvh] flex flex-col overflow-hidden  bg-gradient-to-r from-black via-gray-900 to-indigo-950 font-serif ">
 
       <div className="flex-1 text-center pt-10">
       <motion.h1  
